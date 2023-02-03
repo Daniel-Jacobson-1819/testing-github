@@ -2,3 +2,9 @@ body {
 	background-color: #e5e7eb;
 	font-family: Arial, Helvetica, sans-serif;
 }
+h1{
+	font-size: 50px;
+}
+p{
+	font-size: 20px;
+}
